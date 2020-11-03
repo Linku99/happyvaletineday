@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/happybirthdaykhusi/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/happybirthdaykhusi/static/js/main.1aa5f339.chunk.js",
+    "main.js.map": "/happybirthdaykhusi/static/js/main.1aa5f339.chunk.js.map",
+    "runtime-main.js": "/happybirthdaykhusi/static/js/runtime-main.5b0cdd81.js",
+    "runtime-main.js.map": "/happybirthdaykhusi/static/js/runtime-main.5b0cdd81.js.map",
+    "static/js/2.5b6821e6.chunk.js": "/happybirthdaykhusi/static/js/2.5b6821e6.chunk.js",
+    "static/js/2.5b6821e6.chunk.js.map": "/happybirthdaykhusi/static/js/2.5b6821e6.chunk.js.map",
+    "static/js/3.990924d0.chunk.js": "/happybirthdaykhusi/static/js/3.990924d0.chunk.js",
+    "static/js/3.990924d0.chunk.js.map": "/happybirthdaykhusi/static/js/3.990924d0.chunk.js.map",
+    "index.html": "/happybirthdaykhusi/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/happybirthdaykhusi/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.5b6821e6.chunk.js.LICENSE.txt": "/happybirthdaykhusi/static/js/2.5b6821e6.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/happybirthdaykhusi/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b0cdd81.js",
+    "static/js/2.5b6821e6.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.1aa5f339.chunk.js"
+  ]
+}
