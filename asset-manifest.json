@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/happybirthdaykhusi/static/css/main.bc7c241c.chunk.css",
+    "main.css": "/happybirthdaykhusi/static/css/main.6ec6585b.chunk.css",
     "main.js": "/happybirthdaykhusi/static/js/main.f26a753b.chunk.js",
     "main.js.map": "/happybirthdaykhusi/static/js/main.f26a753b.chunk.js.map",
     "runtime-main.js": "/happybirthdaykhusi/static/js/runtime-main.b2f72cb5.js",
@@ -10,7 +10,7 @@
     "static/js/3.ebac27fc.chunk.js": "/happybirthdaykhusi/static/js/3.ebac27fc.chunk.js",
     "static/js/3.ebac27fc.chunk.js.map": "/happybirthdaykhusi/static/js/3.ebac27fc.chunk.js.map",
     "index.html": "/happybirthdaykhusi/index.html",
-    "static/css/main.bc7c241c.chunk.css.map": "/happybirthdaykhusi/static/css/main.bc7c241c.chunk.css.map",
+    "static/css/main.6ec6585b.chunk.css.map": "/happybirthdaykhusi/static/css/main.6ec6585b.chunk.css.map",
     "static/js/2.d3bd5b2b.chunk.js.LICENSE.txt": "/happybirthdaykhusi/static/js/2.d3bd5b2b.chunk.js.LICENSE.txt",
     "static/js/3.ebac27fc.chunk.js.LICENSE.txt": "/happybirthdaykhusi/static/js/3.ebac27fc.chunk.js.LICENSE.txt",
     "static/media/Ishqforever.5cdc9c24.mp3": "/happybirthdaykhusi/static/media/Ishqforever.5cdc9c24.mp3",
@@ -21,7 +21,7 @@
   "entrypoints": [
     "static/js/runtime-main.b2f72cb5.js",
     "static/js/2.d3bd5b2b.chunk.js",
-    "static/css/main.bc7c241c.chunk.css",
+    "static/css/main.6ec6585b.chunk.css",
     "static/js/main.f26a753b.chunk.js"
   ]
 }
