@@ -18,11 +18,11 @@ function App() {
     setPageState({ btnDisplay: true });
   }, []);
   const playBtn = () => {
-    const { btnDisplay } = pageState;
+    // const { btnDisplay } = pageState;
     setPageState({ ...pageState, btnDisplay: false, openDisplay: true });
   };
   const openBtn = () => {
-    const { openDisplay } = pageState;
+    // const { openDisplay } = pageState;
     setPageState({ ...pageState, openDisplay: false, openCake: true });
   };
   return (
