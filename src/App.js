@@ -2,7 +2,7 @@ import "./App.css";
 import React, { useState, useEffect } from "react";
 
 import useSound from "use-sound";
-import ishqforever from "./assets/mp3/Ishqforever.mp3";
+import ishq_wala_ringtone from "./assets/mp3/ishq_wala_ringtone.mp3";
 import gifts from "./assets/images/gifts.jpg";
 import loons1 from "./assets/images/loons1.jpg";
 import cake from "./assets/images/cake.jpg";
@@ -13,7 +13,7 @@ function App() {
     openDisplay: true,
     openCake: false,
   });
-  const [play] = useSound(ishqforever);
+  const [play] = useSound(ishq_wala_ringtone);
   useEffect(() => {
     setPageState({ btnDisplay: true });
   }, []);
@@ -35,23 +35,30 @@ function App() {
             <span>P</span>
             <span>P</span>
             <span>Y</span>
-            <span>B</span>
-            <span>I</span>
-            <span>R</span>
+            <span>V</span>
+            <span>A</span>
+            <span>L</span>
+            <span>E</span>
+            <span>N</span>
             <span>T</span>
-            <span>H</span>
+            <span>I</span>
+            <span>N</span>
+            <span>E</span>
+            <span>'S</span>
             <span>D</span>
             <span>A</span>
             <span>Y</span>
           </h1>
+          
           <section>
             <h1 className="khusi">
-              <span>K</span>
-              <span>H</span>
+              <span>S</span>
               <span>U</span>
               <span>S</span>
               <span>H</span>
-              <span>I</span>
+              <span>R</span>
+              <span>E</span>
+              <span>E</span>
             </h1>
           </section>
           <div
@@ -85,10 +92,8 @@ function App() {
               >
                 <div className="row w-50 pl-2 pt-2">
                   <p className="quote">
-                    “A wish for you on your birthday, whatever you ask may you
-                    receive, whatever you seek may you find, whatever you wish
-                    may it be fulfilled on your birthday and always.” <br />
-                    <br /> Happy birthday!
+                    “Happy valentine’s my crush, you bring joy to my life and I haven’t even made you mine yet. Soon to meet and make this day worth remembering lovely crush.” <br />
+                    <br /> Happy Valentine's Day!
                   </p>
                 </div>
               </div>
@@ -102,8 +107,8 @@ function App() {
                 }}
               >
                 <p className="fullform p-1">
-                  K - Kind <br />H - Honest <br />U - Upright <br />S - Stunning{" "}
-                  <br />I - Innocent
+                  S - Supportive <br />U - Understanding <br />S - Strong <br />H - Honest{" "}
+                  <br />R - Reliable <br />E - Enthusiastic <br />E - Empathetic 
                 </p>
               </div>
             </div>
@@ -135,9 +140,9 @@ function App() {
                     Forget the past; it is gone. Do not think of the future; it
                     has not come. But live in the present because it's a gift
                     and that's why it's called the present. You are the sweetest
-                    person I know, and this birthday is a fresh beginning. I
+                    person I know, and this valentine's day is a fresh beginning. I
                     wish you confidence, courage, and capability. <br />
-                    Happy birthday.
+                    Happy Valentine's Day.
                   </p>
                 </div>
               </div>
